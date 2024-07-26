@@ -1,4 +1,3 @@
-![hero-image](https://michalchudziak.dev/socials/text.png)
 ### Hello 👋
 I’m Mike, an experienced engineer and technology freak with **over 10 years** of professional experience building web and mobile applications. Relationships, trust and excellence are my core values and they serve as the foundation of my work, which makes me a pleasant person to work with.
 
@@ -29,8 +28,3 @@ I owe a lot to the fantastic React & React Native community, hence I want to con
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" title="Obj-C" alt="Obj-C" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
-### Let’s work together 📈
-I provide boutique consultancy services for React and React Native. I’m available mainly on contracts. I join the team like other full-time employees, but with a fixed time commitment.
-
-If you are interested in my services, feel free to visit my [website](https://michalchudziak.dev), or send me an email at [hello@michalchudziak.dev](mailto:hello@michalchudziak.dev).
