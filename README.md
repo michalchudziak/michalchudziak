@@ -1,8 +1,6 @@
-### Hello 👋
-I’m Mike, an experienced engineer and technology freak with **over 10 years** of professional experience building web and mobile applications. Relationships, trust and excellence are my core values and they serve as the foundation of my work, which makes me a pleasant person to work with.
+Building complex systems with software factories.
 
-### Talks & Articles 🎙
-I owe a lot to the fantastic React & React Native community, hence I want to contribute back and share some of my knowledge. I speak at conferences and meetups, host workshops, write articles and contribute to open source projects. Here’s some of my past work:
+Here’s some of my past work:
 
 #### Talks
 - [How to actually improve the performance of a React Native app?](https://www.youtube.com/watch?v=uLicTDG5hSs&t=16372s)
