@@ -1,4 +1,4 @@
-Building complex systems with AI on a good engineering foundation.
+Building complex systems with AI on a solid engineering foundation.
 
 Here’s some of my past work:
 
